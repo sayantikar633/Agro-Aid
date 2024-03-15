@@ -29,7 +29,7 @@ page = st.sidebar.radio("Go to", ['Home', 'Disease Recognition', 'Treatment', 'N
 if page == 'Home':
     st.title('Welcome to your Personal Agro-Aid!!! 🌿🔍')
     st.write("""
-    Our mission is to help in identifying plant diseases efficiently. Upload an image of a plant, and our system will analyze it to detect any signs of diseases. Together, let's protect our crops and ensure a healthier harvest!
+    Our mission is to help in identifying plant disease efficiently. Upload an image of a plant, and our system will analyze it to detect any signs of diseases. Together, let's protect our crops and ensure a healthier harvest!
 
     ### How It Works
     1. **Upload Image:** Go to the **Disease Recognition** page and upload an image of a plant with suspected diseases.
